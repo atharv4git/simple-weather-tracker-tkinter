@@ -1,3 +1,16 @@
+# Simple `tkinter` weather tracker
+## How to use:
+```commandline
+git clone https://github.com/atharv4git/simple-weather-tracker-tkinter.git
+cd simple-weather-tracker-tkinter
+```
+```commandline
+pip install requirements.txt
+```
+```commandline
+python main.py
+```
+
 __Project: Weather Forecasting Tool__
 
 As a weather enthusiast, you have decided to create a tool that can provide accurate weather forecasting information for a given location. Your goal is to develop a Python program that takes a user's location as input and outputs the expected weather conditions for the next few days.
